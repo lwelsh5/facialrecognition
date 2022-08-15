@@ -1,6 +1,6 @@
 During my course from ZTM: The Complete Web developer we created a Front End and Back end application which uses the Clarifai Facial Recognition API. 
 
-I have deployed my app onto Heroku. Please follow this link: https://facial-recognition765.herokuapp.com/
+This is my Front End Application. I have deployed my app onto Heroku. Please follow this link: https://facial-recognition765.herokuapp.com/
 
 Register, Sign In and Sign Out feature. When you upload your photo to the app it will be able to detect faces in the image and count how many entries you have uploaded an image. 
 
